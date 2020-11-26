@@ -30,6 +30,7 @@ public class Baseclass {
    public ExtentReports report;
    public ExtentTest logger;
    
+   //new class created
    @BeforeSuite
    public void setUpSuit() {
 	   

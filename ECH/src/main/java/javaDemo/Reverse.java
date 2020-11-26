@@ -12,7 +12,7 @@ public class Reverse {
 		reversebuffer();
 
 	}
-
+// new methad added
 	public static void reversewhile() {
 
 		int num = 1234;
